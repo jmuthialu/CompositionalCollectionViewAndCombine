@@ -1,5 +1,10 @@
 # Compositional CollectionView and Combine
 
+<p align="center">
+  <img src="AppDemo.gif" alt="animated" />
+</p>
+
+
 ## Compositional CollectionView and Diffable DataSource
 There are three sections, Featured, Shared and General pictures. 
 They are rendered by using three seperate layouts one for each.
